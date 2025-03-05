@@ -1,5 +1,9 @@
 # Rate Calculator (CodeCrafters)
 
+## Screenshots
+
+![App](./screenshot/CodeCrafters.png)
+
 ## 📚 Project Overview
 This is a **rate calculation tool** developed as part of our **final exam project** at EASV.  
 It automates the calculation of regional and country-specific day rates for a global company, replacing manual Excel-based processes.  
